@@ -1,6 +1,6 @@
 {
   "name": "passkey-zip",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Passkey zip for JavaScript",
   "main": "lib/index.js",
   "scripts": {
@@ -28,8 +28,8 @@
     "archiver": "^3.0.0",
     "commander": "^2.20.0",
     "crypto": "^1.0.1",
-    "passkey-sdk": "0.0.2",
-    "unzipper": "^0.9.12"
+    "passkey-sdk": "0.0.3 - 0.1",
+    "unzipper": "^0.9.15"
   },
   "preferGlobal": true,
   "bin": {
